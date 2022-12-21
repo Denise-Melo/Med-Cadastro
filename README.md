@@ -1,6 +1,6 @@
 ## Med-cadastro
 >Nota: 
-- [x] em construção
+- [x] em construção, o readme sofrerá inumeros acréscimos
 - [ ] terminado
 
 <a name="a"></a>
