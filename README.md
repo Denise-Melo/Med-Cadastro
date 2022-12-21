@@ -45,8 +45,14 @@
 [Topo](#a)
 <a id="a5"></a>
 ## **Tecnologias Utilizadas**
-* [X] Java
-* [X] Spring Boot 3
+1. Spring Boot 3
+2. Java 17
+3. Lombok
+4. MySQL/ Flyway
+5. JPA/Hibernate
+6. Maven
+7. Insomnia
+8. Postman
 
 [Topo](#a)
 <a id="a6"></a>
