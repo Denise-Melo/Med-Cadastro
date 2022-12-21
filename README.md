@@ -4,6 +4,7 @@
 - [ ] terminado
 
 <a name="a"></a>
+## Indice
 - [Sobre](#a1)
 - [Descrição do Projeto](#a2)
 - [Funcionalidades disponíveis](#a3)
